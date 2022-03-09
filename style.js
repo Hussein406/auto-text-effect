@@ -1,6 +1,6 @@
 const textEl = document.querySelector("#text");
 const speedEl = document.querySelector("#speed");
-const text = "We love Programming";
+const text = "We love Programming..";
 let index = 1;
 
 let speed = 300 / speedEl.value;
